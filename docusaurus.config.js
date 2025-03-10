@@ -95,11 +95,6 @@ const config = {
                 label: 'X (twitter)',
                 href: 'https://x.com/cguida6',
               },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/chrisguida/tiny-lightning-node-tutorial/',
